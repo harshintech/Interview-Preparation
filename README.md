@@ -1,7 +1,7 @@
 # 🚀 Interview Preparation Repository
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/cs_iitian)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/harshintech)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/interview-preparation/graphs/commit-activity)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 
